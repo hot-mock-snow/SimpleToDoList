@@ -6,7 +6,7 @@ public class ToDoApp {
 
     //データベースのパス
     final String DB_URL = "jdbc:mysql://localhost/todo_list";
-    final String USER = "root";
+    final String USER = "user";
     final String PASS = "pass";
 
     private Connection conn = null;
